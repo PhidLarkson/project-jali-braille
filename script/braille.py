@@ -106,4 +106,6 @@ st.sidebar.write("---")
 st.sidebar.write("This project is developed by [pkwollfe :heart:](https://x.com/Pkwolffe)")
 st.sidebar.write("[Contributors are welcome!](https://github.com/PROJECT-JALI)")
 st.sidebar.write("Powered by [Streamlit](https://streamlit.io/)")
+st.sidebar.write("Wikipedia: [Braille](https://en.wikipedia.org/wiki/Braille)")
+st.sidebar.write("Wikipedia: [Unicode](https://en.wikipedia.org/wiki/Unicode)")
 
