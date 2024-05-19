@@ -63,7 +63,7 @@ if text != "":
     braille_text = "".join(braille(c) for c in text.lower())
     st.write("---")
     st.write("Text,", text)
-    st.write("Braille unicode,", braille_text)
+    st.title(braille_text)
     st.write("---")
 
     # image rendering
